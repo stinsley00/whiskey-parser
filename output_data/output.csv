@@ -1,0 +1,285 @@
+name|rating|country|category|price|abv|age|brand|time_data|row_num|id|mean_age|mean_abv|mean_price
+Canadian Hunter Canadian Whisky|40|Canada|Blended|9|40||Canadian Hunter|1995-01-01  00:00:00|0|c6a4f860-9413-4bb9-8dbf-26d612016890|14.36|44.61|72.37
+Canadian LTD Blended Canadian Whiskey|43|Canada|Blended|10|||Canadian LTD|1995-01-01  00:00:00|1|d1d39de3-d4ec-4487-a651-2144dc9e434c|14.36|44.61|72.37
+Kellan Irish Whiskey|47|Ireland|Blended|20|40||Kellan|1995-01-01  00:00:00|2|e4d1a800-192b-47ae-9b6a-1eac5d2c58af|14.36|44.61|72.37
+Rich & Rare Canadian Whisky|47|Canada|Blended|10|||Rich & Rare|1995-01-01  00:00:00|3|bad392ff-ae80-4b14-920c-fd7563807f43|14.36|44.61|72.37
+Canadian Mist Blended Canadian Whisky|48|Canada|Blended|12|40||Canadian Mist|1995-01-01  00:00:00|4|70d63d36-d9b4-4ca7-86d6-db27ee41c023|14.36|44.61|72.37
+Slane Castle Irish Whiskey|50|Ireland|Blended|25|||Slane Castle|1995-01-01  00:00:00|5|96f50fc5-2e71-43fc-a4c1-6e773357a519|14.36|44.61|72.37
+Canadian Club 6 Year Old Canadian Whisky|53|Canada|Blended|12|40|6|Canadian Club|1995-01-01  00:00:00|6|512c22a7-abe6-470f-9497-4353db4dc681|14.36|44.61|72.37
+Origine Irish Whiskey|54|Ireland|Blended|17|||Origine|1995-01-01  00:00:00|7|d9868e00-7fd7-4a2f-b8f1-67dbd1fe2261|14.36|44.61|72.37
+Jack Daniel's No. 7 Whiskey|54|USA|Blended|20|40|7|Jack Daniel's|1995-01-01  00:00:00|8|1699efe2-71e0-4538-99b3-24bb4982d144|14.36|44.61|72.37
+Ellington Canadian Whisky|54|Canada|Blended|11|||Ellington|1995-01-01  00:00:00|9|eacd38e8-107c-4bbb-ba24-40555f30f8ac|14.36|44.61|72.37
+Canadian Club Reserve Canadian Whisky|56|Canada|Blended|16||10|Canadian Club|1995-01-01  00:00:00|10|9b66acce-70e7-47a5-8eb9-03c6cf6270e6|14.36|44.61|72.37
+Pendleton Blended Canadian Whisky|56|Canada|Blended|26|40||Hood River|1995-01-01  00:00:00|11|45189079-263e-4b99-8fd3-c04e67069b93|14.36|44.61|72.37
+Jim Beam Straight Rye Whiskey|57|USA|Rye|15|51|4|Jim Beam|1995-01-01  00:00:00|12|4469de0e-b54a-41c2-a923-1843a16dfe5a|14.36|44.61|72.37
+Catoctin Creek Organic Roundstone Rye Whisky|57|USA|Rye|38|40||Catoctin Creek|1995-01-01  00:00:00|13|a43abf77-2ddd-4075-bd53-aae8fbc8761c|14.36|44.61|72.37
+Johnnie Walker Red Label Whisky|58|Scotland|Blended|30|40||Johnnie Walker|1995-01-01  00:00:00|14|cfa3333e-cca8-4f86-96e7-bf6cc3d39b9e|14.36|44.61|72.37
+Danfield's Private Reserve Small Batch Canaidan Whiskey|60|Canada|Blended|25|||Danfield|1995-01-01  00:00:00|15|e3fc0672-d603-462d-990f-66bab2856973|14.36|44.61|72.37
+Wiser's Small Batch Canadian Whisky|60|Canada|Rye|29|43||Wiser's|1995-01-01  00:00:00|16|2f6c3de2-aad9-4c02-a380-d618ab5b191c|14.36|44.61|72.37
+8 Seconds Canadian Whiskey|64|Canada|Blended|30|40||8 Seconds|1995-01-01  00:00:00|17|7a58125f-9670-441d-b4ff-aa63295eb450|14.36|44.61|72.37
+Feckin Irish Whiskey|64|Ireland|Blended|20|40||Feckin|1995-01-01  00:00:00|18|0702ed7e-5078-4965-a513-7f904568e505|14.36|44.61|72.37
+Bushmills Original Irish Whiskey|65|Ireland|Blended|24|40||Bushmills|1995-01-01  00:00:00|19|cfa08aef-0dd6-4544-bff6-2ec3097e7919|14.36|44.61|72.37
+Jameson Irish Whiskey|65|Ireland|Blended|25|40||Jameson|1995-01-01  00:00:00|20|8e570384-acdc-421e-8c2e-4e218e5735f1|14.36|44.61|72.37
+Templeton Rye Whiskey|67|USA|Rye|35|40|4|Templeton|1995-01-01  00:00:00|21|0c59016a-245f-481e-b3da-88004f163be3|14.36|44.61|72.37
+Dalwhinnie 15 Year Old Single Malt Scotch|67|Scotland|Highlands|50|43|15|Dalwhinnie|1995-01-01  00:00:00|22|95c58f9a-4d5b-4022-8de7-653bfa18e0fb|14.36|44.61|72.37
+Forty Creek John K. Hall Small Batch Reserve Whisky|67|Canada|Blended|60|40||Forty Creek|1995-01-01  00:00:00|23|e6aa1f2a-3e06-4f36-a550-017c6548a801|14.36|44.61|72.37
+Wiser's 18 Year Old Canadian Whisky|67|Canada|Blended|65|40|18|Wiser's|1995-01-01  00:00:00|24|a59debf9-3b4b-4ca0-9d35-62f37e05851e|14.36|44.61|72.37
+Black Velvet Reserve Canadian Whiskey|67|Canada|Blended|14|40|8|Black Velvet|1995-01-01  00:00:00|25|2de0be31-54dd-4a18-b90b-0d79a44561f0|14.36|44.61|72.37
+Crown Royal Canadian Whisky|68|Canada|Blended|25|40||Crown Royal|1995-01-01  00:00:00|26|2a367672-5128-4a8b-a2ec-8a0b94af8080|14.36|44.61|72.37
+Benchmark Old No. 8 Kentucky Straight Bourbon Whiskey|68|USA|Bourbon|12|40||Benchmark|1995-01-01  00:00:00|27|30fd6f37-896b-4d81-a372-18062962584e|14.36|44.61|72.37
+Forty Creek Barrel Select Canadian Whiskey|69|Canada|Blended|23|40||Forty Creek|1995-01-01  00:00:00|28|c975a2b8-e769-4f63-b9d6-0759019a1dc8|14.36|44.61|72.37
+Canadian Club Classic 12 Canadian Whisky|69|Canada|Blended|23|40|12|Canadian Club|1995-01-01  00:00:00|29|788e666f-7c70-4be6-936b-8290c83226d2|14.36|44.61|72.37
+Jim Beam Kentucky Straight Bourbon Whiskey|69|USA|Bourbon|15|40|4|Jim Beam|1995-01-01  00:00:00|30|32a2a596-136f-4f26-b8ff-2f34491de531|14.36|44.61|72.37
+Sazerac Kentucky Straight Rye Whiskey|69|USA|Rye|27|45|6|Sazerac|1995-01-01  00:00:00|31|3b881e5b-8cd2-42b3-99df-f8c09d682416|14.36|44.61|72.37
+Famous Grouse Blended Scotch Whisky|69|Scotland|Blended|20|40||Famous Grouse|1995-01-01  00:00:00|32|1db85633-8055-4f2d-80ee-4e61c5f06ad9|14.36|44.61|72.37
+Johnnie Walker Black Label Scotch Whisky|70|Scotland|Blended|45|43|12|Johnnie Walker|1995-01-01  00:00:00|33|efdbedf7-c28c-45e0-b218-0a295c355f9c|14.36|44.61|72.37
+Tullamore Dew Irish Whiskey|70|Ireland|Blended|26|40||Tullamore|1995-01-01  00:00:00|34|49a9db6b-8815-4850-999f-71c21bbd2df6|14.36|44.61|72.37
+Canadian Club Sherry Cask Canadian Whisky|71|Canada|Blended|27|40|8|Canadian Club|1995-01-01  00:00:00|35|7a2f02c4-8cd0-401d-9483-f795afe367bd|14.36|44.61|72.37
+Greenore 8 Year Old Single Grain Irish Whiskey|71|Ireland|Grain|50|43|8|Greenore|1995-01-01  00:00:00|36|904c3cdd-cac1-41ea-98ee-5b847a303329|14.36|44.61|72.37
+Ardmore Traditional Cask Highland Single Malt Scotch Whisky|72|Scotland|Speyside|48|46|30|Ardmore|1995-01-01  00:00:00|37|5147c461-3c77-44e0-a605-87ca260dfc14|14.36|44.61|72.37
+Jameson 18 Year Old Limited Reserve Irish Whiskey|73|Ireland|Blended|84|40|18|Jameson|1995-01-01  00:00:00|38|fb57337c-642a-4a03-90f6-a202f7ae6407|14.36|44.61|72.37
+Connemara 12 Year Old Peated Single Malt Irish Whiskey|73|Ireland|Single Malt|90|40|12|Connemara|1995-01-01  00:00:00|39|65fd60a9-8c86-4d5f-93ab-0d56dac6a04b|14.36|44.61|72.37
+Bushmills 1608 Irish Whiskey Limited Edition|74|Ireland|Blended|90|46||Bushmills|1995-01-01  00:00:00|40|69f773df-f9c0-442e-bc78-d10a75394159|14.36|44.61|72.37
+Michael Collins Single Malt Irish Whiskey|74|Ireland|Single Malt|40|40|10|Wiser's|1995-01-01  00:00:00|41|b95c94b1-f60a-41ad-abb4-b9da94e6aba4|14.36|44.61|72.37
+Wiser's Legacy Canadian Whisky|74|Canada|Blended|50|45||Wiser's|1995-01-01  00:00:00|42|9516ba79-3897-43ad-9305-4cdb57a79362|14.36|44.61|72.37
+Whyte & Mackay Old Luxury 19 Year Old Aged Blended Scotch Whisky|74|Scotland|Blended|58|40|19|Whyte & Mackay|1995-01-01  00:00:00|43|15549d1b-e169-4120-b347-aaa6893d7bac|14.36|44.61|72.37
+Glen Breton Rare 10 Year Old Single Malt Canadian Whisky|75|Canada|Single Malt|85|43|10|Glen Breton|1995-01-01  00:00:00|44|a73d42c5-3785-42c5-8484-beedfc4a35bc|14.36|44.61|72.37
+Wasmund's Copper Fox Rye Whisky|76|USA|Rye|46|45|1|Copper Fox|1995-01-01  00:00:00|45|b48452ae-a589-413d-a24c-34cf46ec5cba|14.36|44.61|72.37
+Baker's Kentucky Straight Bourbon Whiskey|76|USA|Bourbon|38|53|7|Jim Beam|1995-01-01  00:00:00|46|002f998e-e1c4-4e4c-9c58-99c91b59abcd|14.36|44.61|72.37
+Amrut Indian Single Malt Whisky|76|India|Single Malt|36|46||Amrut|1995-01-01  00:00:00|47|d4f6728d-bf94-4843-a030-dcc51df69675|14.36|44.61|72.37
+Amrut Peated Indian Single Malt Whisky|76|India|Single Malt|70|46||Amrut|1995-01-01  00:00:00|48|32eda6d6-5f9f-4327-8522-6919ccf6588e|14.36|44.61|72.37
+Early Times 354 Bourbon|76|USA|Bourbon|16|40||Early Times|1995-01-01  00:00:00|49|f7c427fe-28fe-40db-bb60-85cf5eb9239e|14.36|44.61|72.37
+Johnnie Walker Green Label Scotch Whisky|76|Scotland|Blended|45|40|15|Johnnie Walker|1995-01-01  00:00:00|50|cc491321-7807-4200-8809-950508391445|14.36|44.61|72.37
+Glen Breton Battle of the Glen 15 Year Old Single Malt Canadian Whisky|77|Canada|Single Malt||43|15|Glenora|1995-01-01  00:00:00|51|dd8ccbf5-91d5-492e-9e6c-fb7520207310|14.36|44.61|72.37
+Michael Collins Blended Irish Whiskey|77|Ireland|Blended|28|40|12|Michael Collins|1995-01-01  00:00:00|52|45c91bec-8d39-4665-b82e-33261cf14884|14.36|44.61|72.37
+Penderyn Single Malt Welsh Whisky|77|England|Single Malt|70|46||Penderyn|1995-01-01  00:00:00|53|afcb3ff5-ba7d-4d70-952f-31fb92ec9cce|14.36|44.61|72.37
+Balvenie Madeira Cask 17 Year Old Single Malt Scotch Whisky|77|Scotland|Speyside|179|43|17|Balvenie|1995-01-01  00:00:00|54|772138c0-ddfe-47e4-b5ca-087c3d3ba970|14.36|44.61|72.37
+Wild Turkey Bourbon 101|77|USA|Bourbon|20|50|8|Wild Turkey|1995-01-01  00:00:00|55|60f8ebb5-3adc-4da5-a64f-46b7055dbee6|14.36|44.61|72.37
+Sazerac 18 Year Old Kentucky Straight Rye Whiskey|78|USA|Rye|75|45|18|Sazerac|1995-01-01  00:00:00|56|3cbbfaad-3886-4909-abe5-1d79b4da0e7d|14.36|44.61|72.37
+Grant's Family Reserve Blended Scotch Whisky|78|Scotland|Blended|17|40||William Grant & Sons|1995-01-01  00:00:00|57|43264730-41ca-4b6b-a95d-ebd2b141ca1f|14.36|44.61|72.37
+Johnnie Walker Gold Label Blended Scotch Whisky|78|Scotland|Blended|73|40|18|Johnnie Walker|1995-01-01  00:00:00|58|84e110fe-edc3-46c2-98bd-506b80817532|14.36|44.61|72.37
+Connemara Cask Strength Peated Single Malt Irish Whiskey|78|Ireland|Single Malt|65|58||Connemara|1995-01-01  00:00:00|59|dd16b4f5-fbe4-4ec1-8951-d62ae221c405|14.36|44.61|72.37
+Bushmills Black Bush Irish Whiskey|79|Ireland|Blended|32|40|11|Bushmills|1995-01-01  00:00:00|60|97b4eeca-b437-45e5-ad55-eb0952a4eebb|14.36|44.61|72.37
+Hudson Manhattan Rye|79|USA|Rye|41|46||Hudson|1995-01-01  00:00:00|61|ac09dc8a-b3bf-4690-bca6-25ab4716b3c2|14.36|44.61|72.37
+George Dickel Barrel Select Tennessee Whiskey|79|USA|Corn|26|43|12|George Dickel|1995-01-01  00:00:00|62|b315a9d2-ccb6-4be5-af1e-d0e405cbc591|14.36|44.61|72.37
+Royal Canadian Small Batch Canadian Whisky|79|Canada|Blended|27|40||Royal Canadian|1995-01-01  00:00:00|63|10e5a3b8-d835-423c-b27e-6aba243f2c19|14.36|44.61|72.37
+Canadian Mist Black Diamond Canadian Whiskey|80|Canada|Rye|16|43||Canadian Mist|1995-01-01  00:00:00|64|0f96f83a-8871-4bde-b433-da5ab19a47a4|14.36|44.61|72.37
+Isle of Jura 16 Year Old Single Malt Scotch Whisky|80|Scotland|Islands|63|43|16|Isle of Jura|1995-01-01  00:00:00|65|107f8dec-46ed-4149-9233-342db728ab54|14.36|44.61|72.37
+Evan Williams 1999 Vintage Bourbon Whiskey|80|USA|Bourbon|25|43|12|Evan Williams|1995-01-01  00:00:00|66|c85edc35-4c0b-476f-b316-6b6d22996a39|14.36|44.61|72.37
+Booker's True Barrel Bourbon|80|USA|Bourbon|60|62|7|Booker's|1995-01-01  00:00:00|67|935a1775-e365-4608-b755-703eda037192|14.36|44.61|72.37
+Amrut Peated Indian Single Malt Whiskey Cask Strength|80|India|Single Malt|85|62.8||Amrut|1995-01-01  00:00:00|68|4976d658-4bac-474e-8255-0a0a57b8624a|14.36|44.61|72.37
+Basil Hayden's 8 Year Old Bourbon Whiskey|80|USA|Bourbon|36|40|8|Basil Hayden|1995-01-01  00:00:00|69|5b569c96-b090-43f4-b939-c005577aa91d|14.36|44.61|72.37
+Four Roses Yellow Label Straight Bourbon|81|USA|Bourbon|20|40||Four Roses|1995-01-01  00:00:00|70|44a2f0cc-6971-4fdd-b5cc-a7dd3070fbb0|14.36|44.61|72.37
+Hudson Single Malt Whiskey|81|USA|Single Malt|43|46||Hudson|1995-01-01  00:00:00|71|9f99912f-8b43-40cc-8eed-6f4928f5f9b4|14.36|44.61|72.37
+Balblair 1997 Highland Single Malt Scotch Whisky|81|Scotland|Highlands|58|43||Balblair|1995-01-01  00:00:00|72|b331834d-ece6-42a7-b9d2-d5744c2f8e97|14.36|44.61|72.37
+Barton Irish Whiskey|81|Ireland|Blended|20|40||Barton|1995-01-01  00:00:00|73|e8e83c80-d4e8-4bfb-b5b9-5cc692c7a9bf|14.36|44.61|72.37
+Corsair Pumpkin Spice Moonshine|81|USA|Flavored|35|42.5||Corsair|1995-01-01  00:00:00|74|1c8fc12a-6e21-4f1a-aedf-bcbfb5225d46|14.36|44.61|72.37
+Kavalan Solist Ex-Bourbon Single Malt Whisky|81|Taiwan|Single Malt|100|58.2||Kavalan|1995-01-01  00:00:00|75|a86e36e8-81be-4df5-bfda-1acf42d3f547|14.36|44.61|72.37
+Mickey Finn Irish Whiskey|81|Ireland|Flavored|25|40||Mickey Finn|1995-01-01  00:00:00|76|40537342-40fb-43eb-828a-5546724994c1|14.36|44.61|72.37
+P & M Blended Whisky|81|France|Blended|40|40||P & M|1995-01-01  00:00:00|77|687c44cb-b01f-4b84-9467-d7991be56120|14.36|44.61|72.37
+P & M Single Malt Whisky|81|France|Single Malt|60|42||P & M|1995-01-01  00:00:00|78|1240236f-4cd8-4b45-bc70-459a8df749a0|14.36|44.61|72.37
+Prince Edward Canadian Rye|81|Canada|Rye|55|41||Price Edward|1995-01-01  00:00:00|79|3386864a-20bf-4d97-8873-e4b0299acb64|14.36|44.61|72.37
+Jim Beam Red Stag Black Cherry Flavored Whiskey|81|USA|Flavored|18|40|4|Jim Beam|1995-01-01  00:00:00|80|874dbdb1-a2c8-4164-a99c-b233e44f5b63|14.36|44.61|72.37
+Seagram's 7 Crown Dark Honey Whiskey|81|USA|Flavored|17|35.5|7|Seagram's|1995-01-01  00:00:00|81|08f27044-0069-4b8c-ad37-c539dc70c9b4|14.36|44.61|72.37
+Tullamore Dew 10 Year Old Single Malt Irish Whiskey|81|Ireland|Single Malt|69|40|10|Tullamore|1995-01-01  00:00:00|82|e22a5aa3-6732-4729-b7ee-0e0d431e6c7a|14.36|44.61|72.37
+Wolfhound Irish Whiskey|81|Ireland|Blended|25|40||Wolfhound|1995-01-01  00:00:00|83|f33f44ce-749d-4754-9452-f503beda0550|14.36|44.61|72.37
+Wild Turkey 81 Bourbon Whiskey|81|USA|Bourbon|17|41|8|Wild Turkey|1995-01-01  00:00:00|84|9f821540-dd0f-4059-bd0e-1caf421a5a2d|14.36|44.61|72.37
+The Irishman Single Malt Whiskey|81|Ireland|Single Malt|50|40|10|The Irishman|1995-01-01  00:00:00|85|936d4233-dd28-4263-8af0-a6eed2ec57e9|14.36|44.61|72.37
+Collingwood Hand-Crafted Blended Canadian Whisky|81|Canada|Blended|28|40||Collingwood|1995-01-01  00:00:00|86|12628370-d84b-4687-846b-bc45b6ca5dca|14.36|44.61|72.37
+Old Forester Straight Bourbon 86 Proof|81|USA|Bourbon|19|43|4|Old Forester|1995-01-01  00:00:00|87|417fda90-098c-4bf1-b143-3f8b4e357bc6|14.36|44.61|72.37
+Buffalo Trace White Dog Mash #1 Corn Whiskey|82|USA|Corn|16|62.5||Buffalo Trace|1995-01-01  00:00:00|88|8512a92a-0b2f-475a-be7a-e4245da1ec5c|14.36|44.61|72.37
+Kavalan Concert Master Single Malt Whiskey|82|Taiwan|Single Malt|50|40||Kavalan|1995-01-01  00:00:00|89|eca2b94c-f0de-4330-8a53-ed8c0a433c13|14.36|44.61|72.37
+Kavalan Single Malt Whiskey|82|Taiwan|Single Malt|70|40||Kavalan|1995-01-01  00:00:00|90|d06657d2-1503-4fb0-916f-93bcdc00a9da|14.36|44.61|72.37
+Old Parr Superior 18 Year Old Blended Scotch Whisky|82|Scotland|Blended|100|43|18|Old Parr|1995-01-01  00:00:00|91|78745b5c-758c-41f2-b914-8ada3f5cac77|14.36|44.61|72.37
+Charter 101 Kentucky Straight Bourbon Whiskey|82|USA|Bourbon|19|50||Charter|1995-01-01  00:00:00|92|21ef6be7-396a-4006-884a-31acd57bfcc4|14.36|44.61|72.37
+George Dickel Tennessee Whisky #8|82|USA|Corn|17|40||George Dickel|1995-01-01  00:00:00|93|e93c29c9-2438-449c-83c4-1ad01868277c|14.36|44.61|72.37
+High West Rocky Mountain Rye 21 Year Old Whiskey|82|USA|Rye|133|53|21|High West|1995-01-01  00:00:00|94|9e36bc7b-1a06-474e-98cf-09e1bd8a41b8|14.36|44.61|72.37
+Glenrothes 1985 Single Malt Scotch Whisky|82|Scotland|Speyside|100|43|19|Glenrothes|1995-01-01  00:00:00|95|0dabe6bb-61e0-4e1d-8f90-882191ffc0ed|14.36|44.61|72.37
+1972 Ridgemont Reserve Kentucky Straight Bourbon Whiskey|83|USA|Bourbon|28|46||Ridgemont Reserve|1995-01-01  00:00:00|96|dd2985f8-3cbf-479c-b1c0-97cb5f0f4c91|14.36|44.61|72.37
+Tyrconnell Single Malt Irish Whiskey|83|Ireland|Single Malt|33|||Tyrconnell|1995-01-01  00:00:00|97|a989ac25-edd2-438a-b7b4-c998d7ecb535|14.36|44.61|72.37
+Dalmore 1263 King Alexander the Third Single Highland Malt Scotch|83|Scotland|Highlands|246|40||Dalmore|1995-01-01  00:00:00|98|da93f954-7850-48f3-a6a7-392555936bb0|14.36|44.61|72.37
+Hudson Four Grain Bourbon|83|USA|Bourbon|42|46||Hudson|1995-01-01  00:00:00|99|0ffb0edf-2155-4100-bf96-d2c4b1aebe62|14.36|44.61|72.37
+Forty Creek Port Wood Reserve Whiskey|83|Canada|Blended|70|45||Forty Creek|1995-01-01  00:00:00|100|080e400e-000c-4372-b907-913fad0427ed|14.36|44.61|72.37
+Maker's Mark Bourbon 46|83|USA|Bourbon|35|47||Maker's Mark|1995-01-01  00:00:00|101|f3bb5d9e-155c-4cb0-9081-0260dd4bf4ed|14.36|44.61|72.37
+Oban 14 Year Old Single Malt Scotch|83|Scotland|Highlands|65|43|14|Oban|1995-01-01  00:00:00|102|863e9397-cdc3-4d74-b70d-81dca2263b6d|14.36|44.61|72.37
+Laphroaig 10 Year Old Cast Strength Islay Single Malt Scotch Whisky|83|Scotland|Islay|60|43|10|Laphroaig|1995-01-01  00:00:00|103|eda8ddbf-db96-4596-9600-fc2a190b7ab0|14.36|44.61|72.37
+Powers Gold Label Irish Whiskey|84|Ireland|Blended|25|40|12|Powers|1995-01-01  00:00:00|104|bb60fa0e-fdc4-48d5-ae83-21928770e750|14.36|44.61|72.37
+Laphroaig 10 Year Old Single Malt Scotch Whisky|84|Scotland|Islay|47|40|10|Laphroaig|1995-01-01  00:00:00|105|0ef36514-e0ea-4d04-a791-4dfdc4530a3f|14.36|44.61|72.37
+Johnnie Walker Blue Label Scotch Whisky|84|Scotland|Blended|199|40|12|Johnnie Walker|1995-01-01  00:00:00|106|d3ae005f-4ddb-4ede-b9d1-2b65ccd5bbef|14.36|44.61|72.37
+Kilbeggan 15 Year Old Finest Irish Whiskey|84|Ireland|Blended|100|40|15|Kilbeggan|1995-01-01  00:00:00|107|39ca650b-3f50-43b3-8bb4-bef11ecbf31d|14.36|44.61|72.37
+Tullamore Dew 12 Year Old Irish Special Reserve Whiskey|84|Ireland|Blended|43|40|12|Tullamore|1995-01-01  00:00:00|108|62109ac0-ec04-4bf2-bf5b-9c55f0fb2708|14.36|44.61|72.37
+Balvenie Portwood 21 Year Old Single Malt Scotch Whisky|84|Scotland|Speyside|160|43|21|Balvenie|1995-01-01  00:00:00|109|9a8f9476-b92d-4bbd-a8c1-154082233592|14.36|44.61|72.37
+High West Double Rye Whiskey|85|USA|Rye|34|46||High West|1995-01-01  00:00:00|110|abf8a4e1-34aa-4cfa-b882-e3eebd0a71e5|14.36|44.61|72.37
+Lagavulin 16 Scotch|85|Scotland|Islay|68|43|16|Lagavulin|1995-01-01  00:00:00|111|1f2f816e-2c88-4ec3-a735-f23c0749ca66|14.36|44.61|72.37
+Auchentoshan 18-Year Old Single Malt Scotch Whisky|85|Scotland|Lowlands|98|54.7|18|Auchentoshan|1995-01-01  00:00:00|112|f71cab38-26ee-42b2-b16b-244f28cc3f20|14.36|44.61|72.37
+Amrut Fusion Single Malt Whisky|85|India|Single Malt|65|50||Amrut|1995-01-01  00:00:00|113|7fce43b7-a44d-41cb-b5d6-a460c900fa5b|14.36|44.61|72.37
+Black Maple Hill 23 Year Old Limited Edition Kentucky Straight Rye Whiskey|85|USA|Rye|100|47.5|23|Black Maple Hill|1995-01-01  00:00:00|114|09353952-26ec-411d-9206-1ad3b7cf09b4|14.36|44.61|72.37
+Bushmills 10 Year Old Single Malt Irish Whiskey|85|Ireland|Single Malt|39|40|10|Bushmills|1995-01-01  00:00:00|115|237c5897-887d-44dd-99f5-0695839da40e|14.36|44.61|72.37
+Springbank 15 Year Old Campbeltown Single Malt Scotch Whisky|85|Scotland|Campbeltown|95|46|15|Springbank|1995-01-01  00:00:00|116|25e440e8-ced2-45e6-8287-6f9aa3d974b5|14.36|44.61|72.37
+Cedar Ridge Distillery Iowa Bourbon Whiskey|85|USA|Bourbon|36|40||Cedar Ridge|1995-01-01  00:00:00|117|375ab5f2-980e-49f1-b23b-add77897ef7a|14.36|44.61|72.37
+Jameson Irish Whiskey Gold Reserve|86|Ireland|Blended|61|40||Jameson|1995-01-01  00:00:00|118|70ca8bf3-7254-4cf0-bd36-071c6685b252|14.36|44.61|72.37
+John L. Sullivan Irish Whiskey|86|Ireland|Blended|24|40||John L. Sullivan|1995-01-01  00:00:00|119|3a1f709f-2fe2-4a86-8f36-15a03bbc7c4f|14.36|44.61|72.37
+Tullamore Dew 10 Year Old Irish Reserve Whiskey|86|Ireland|Blended||40|10|Tullamore|1995-01-01  00:00:00|120|86067d21-48c2-4999-a1a5-acaa9f69672a|14.36|44.61|72.37
+Caol Ila 12 Year Old Single Malt Scotch|86|Scotland|Islay|43|43|12|Caol Ila|1995-01-01  00:00:00|121|dba8305a-ee63-4b0f-bbfb-f2454fc5ee6d|14.36|44.61|72.37
+Yamazaki Single Malt 12-Year Whisky|86|Japan|Single Malt|43|43|12|Yamazaki|1995-01-01  00:00:00|122|9da89d6c-13fa-48df-85a0-38d962281ab2|14.36|44.61|72.37
+Jim Beam Black Bourbon|86|USA|Bourbon|20|43|8|Jim Beam|1995-01-01  00:00:00|123|21fb2f0a-170d-453b-84df-c163e3c21c07|14.36|44.61|72.37
+Buffalo Trace Kentucky Straight Bourbon Whiskey|86|USA|Bourbon|24|45||Buffalo Trace|1995-01-01  00:00:00|124|3ccb5119-e0e4-4990-9e74-dd811ea87fae|14.36|44.61|72.37
+Old Parr 12 Year Old Blended Scotch|86|Scotland|Blended|40|40|12|Old Parr|1995-01-01  00:00:00|125|4ad9b32d-2b2e-4abc-b2d3-05e972b4b632|14.36|44.61|72.37
+Balvenie 15 Year Old Single Barrel Single Malt Scotch|86|Scotland|Speyside|49|47.8|15|Balvenie|1995-01-01  00:00:00|126|3c5e479b-1ee1-4756-a3c0-b70b2d003acf|14.36|44.61|72.37
+George Dickel Tennessee Whiskey #12|87|USA|Corn|20|45||George Dickel|1995-01-01  00:00:00|127|b8d4c562-654e-405b-9353-60ff02d5fe3b|14.36|44.61|72.37
+Jameson 12 Year Old Irish Whiskey|87|Ireland|Blended|50|40|12|Jameson|1995-01-01  00:00:00|128|b18c0e88-2640-473c-98d7-04686d3e5d9e|14.36|44.61|72.37
+Elmer T Lee Bourbon Whiskey|87|USA|Bourbon|30|45|23|Elmer T Lee|1995-01-01  00:00:00|129|bf473154-a61d-4575-8783-caa53d3a584d|14.36|44.61|72.37
+Tyrconnell 10 Year Old Single Malt Sherry Cask Finish Irish Whiskey|87|Ireland|Single Malt|60||10|Tyrconnell|1995-01-01  00:00:00|130|9a1f80dc-88a9-40bf-af6d-34a70c1ccbee|14.36|44.61|72.37
+Ledaig 10 Year Old Single Malt Scotch|87|Scotland|Highlands|50|43|10|Ledaig|1995-01-01  00:00:00|131|b8535b70-03c8-4824-a1a5-406b9cec79e5|14.36|44.61|72.37
+Blanton's Single Barrel Bourbon|87|USA|Bourbon|49|47||Blanton|1995-01-01  00:00:00|132|076320dd-8e4e-49b4-9be2-645b5a3d4e84|14.36|44.61|72.37
+Four Roses Single Barrel Kentucky Straight Bourbon|87|USA|Bourbon|53|50|10|Four Roses|1995-01-01  00:00:00|133|30c89ca3-b01b-4152-b068-569bead1f8c4|14.36|44.61|72.37
+Bowman Brothers Virginia Straight Bourbon Whiskey|87|USA|Bourbon|40|45||Bowman|1995-01-01  00:00:00|134|b240b87e-0f60-4bf4-a599-9607dd9f3bdc|14.36|44.61|72.37
+Russell's Reserve 6 Year Old Straight Rye Whiskey|88|USA|Rye|27|45|6|Russell's|1995-01-01  00:00:00|135|0cfbb20d-8bfe-4a81-acee-640f25058432|14.36|44.61|72.37
+Balcones True Blue Cask Strength Corn Whiskey|88|USA|Corn|59|63||Balcones|1995-01-01  00:00:00|136|4deb859a-c694-48b5-841c-bd4cde65f96d|14.36|44.61|72.37
+Connemara Turf Mor Irish Whiskey|88|Ireland|Single Malt|75|58||Connemara|1995-01-01  00:00:00|137|398ada1a-8cac-4178-81eb-d8155ffb14e9|14.36|44.61|72.37
+Downslope Double Diamond Whiskey|88|USA|Blended|32|40||Downslope|1995-01-01  00:00:00|138|99b812e8-74aa-46e6-966c-42296b565ead|14.36|44.61|72.37
+Forty Creek Double Barrel Canadian Whiskey|88|Canada|Blended|60|40||Forty Creek|1995-01-01  00:00:00|139|e2ed4e7f-bb4a-45ba-92b5-f41979f43767|14.36|44.61|72.37
+Greenore 15 Year Old Single Malt Irish Whiskey|88|Ireland|Single Malt|100|43|15|Greenore|1995-01-01  00:00:00|140|b5c39506-ec76-4ed3-a738-b33eed36c5c2|14.36|44.61|72.37
+Hudson New York Corn Whiskey|88|USA|Corn|35|40||Hudson|1995-01-01  00:00:00|141|e486cf57-6159-447a-b6e7-64a298799283|14.36|44.61|72.37
+Kansas Spirit Whiskey|88|USA|Unaged|30|40|0|Kansas Spirit|1995-01-01  00:00:00|142|f6f747ae-91c1-4dda-8c17-2e5260fc3fd6|14.36|44.61|72.37
+Kavalan Solist Fino Cast Strength Single Malt Whiskey|88|Taiwan|Single Malt|220|58.3||Kavalan|1995-01-01  00:00:00|143|19660bb0-3328-42b6-99be-e997aea30a4a|14.36|44.61|72.37
+Kavalan Solist Sherry Single Malt Whisky|88|Taiwan|Single Malt|117|58.7||Kavalan|1995-01-01  00:00:00|144|95c98d5a-7bd9-42b0-b5fe-046c7c3245c8|14.36|44.61|72.37
+Leopold Bros. Maryland Style Rye Whiskey|88|USA|Rye|48|43||Leopold Bros.|1995-01-01  00:00:00|145|1f87371f-d1f9-44fc-b845-cdafbd348d0f|14.36|44.61|72.37
+Original Moonshine Corn Whiskey|88|USA|Corn|40|40||Stillhouse|1995-01-01  00:00:00|146|df05ee55-02bb-4571-b88f-a175d8627519|14.36|44.61|72.37
+OYO Soft Red Winter Wheat Whiskey Single Barrel|88|USA|Grain|45|46||Middle West|1995-01-01  00:00:00|147|1645cc74-fc39-4ecb-a4ff-777cd1192d21|14.36|44.61|72.37
+Pescadores Pumpkin Whisky|88|Taiwan|Flavored|25|42||Pescadores|1995-01-01  00:00:00|148|b72effd0-a98e-4761-ae00-ba5d7b2d240b|14.36|44.61|72.37
+Rogue Oregon Single Malt Whiskey|88|USA|Single Malt|48|40||Rogue|1995-01-01  00:00:00|149|52eee5f2-3ca2-4ad1-a807-b6929d5ff962|14.36|44.61|72.37
+Smooth Ambler Exceptional White Whisky|88|USA|Unaged|28|50|0|Smooth Ambler|1995-01-01  00:00:00|150|1c384301-9611-4ffe-b9cc-b0e9617cf010|14.36|44.61|72.37
+Highland Park 12 Year Old Orkneys Single Malt Whisky|88|Scotland|Islands|40|40|12|Highland Park|1995-01-01  00:00:00|151|56e2972d-2dfc-4936-ba7e-e86f77b2288d|14.36|44.61|72.37
+Macallan 30 Year Old Fine Oak Speyside Single Malt Whisky|88|Scotland|Speyside|850|43|30|Macallan|1995-01-01  00:00:00|152|3a9d3d34-140d-46fd-953e-1dd144ac41d2|14.36|44.61|72.37
+Longrow CV Campbeltown Single Malt Whisky|88|Scotland|Campbeltown|61|46||Longrow|1995-01-01  00:00:00|153|d35af664-36c8-46d9-9d89-6a166876fd6b|14.36|44.61|72.37
+Knob Creek 9 Year Old Single Barrel Reserve Bourbon Whiskey|88|USA|Bourbon|37|60|9|Knob creek|1995-01-01  00:00:00|154|1b88c9e2-e06c-4855-a100-f33236b57ade|14.36|44.61|72.37
+Breckenridge Bourbon Whiskey|88|USA|Bourbon|39|43|2|Breckenridge|1995-01-01  00:00:00|155|b06ea890-cf7c-40ae-a5c7-7443b901b81c|14.36|44.61|72.37
+Garrison Brothers Texas Straight Bourbon Whiskey|88|USA|Bourbon|75|47||Garrison Brothers|1995-01-01  00:00:00|156|c6995ed9-26d0-4d82-9e01-98b00857575d|14.36|44.61|72.37
+Old Forester Signature Kentucky Straight Bourbon Whiskey|88|USA|Bourbon|21|50||Old Forester|1995-01-01  00:00:00|157|d28dacfb-59b8-48b2-b88d-995a0a22f8e9|14.36|44.61|72.37
+Balvenie Signature 12 Year Old Single Malt Scotch|88|Scotland|Speyside|53|43|12|Balvenie|1995-01-01  00:00:00|158|21300528-d149-4337-a8d9-d74943ce117f|14.36|44.61|72.37
+Balvenie 17 Year Old Single Malt Scotch|88|Scotland|Speyside|128|43|17|Balvenie|1995-01-01  00:00:00|159|7dc96d2a-6c06-40a2-9448-2c9019928677|14.36|44.61|72.37
+Bulleit Bourbon Frontier Whiskey|88|USA|Bourbon|27|45||Bulleit|1995-01-01  00:00:00|160|c1102354-d69f-4c34-a0d9-8da6da18ca00|14.36|44.61|72.37
+Woodford Reserve Distiller's Select Bourbon|88|USA|Bourbon|34|45||Woodford Reserve|1995-01-01  00:00:00|161|090df5f3-1529-4bae-a2b9-13e86e91c20d|14.36|44.61|72.37
+Old Forester 12 Year Old Birthday Bourbon Whiskey|88|USA|Bourbon|50|47|12|Old Forester|1995-01-01  00:00:00|162|06dce176-f819-46d4-b396-5c2de966fcb4|14.36|44.61|72.37
+Wild Turkey Bourbon Tradition 15 year|88|USA|Bourbon|125|50|15|Wild Turkey|1995-01-01  00:00:00|163|3a2a1410-39cf-4ad6-8b9d-5bd31b4b1e31|14.36|44.61|72.37
+Aberlour 16 Year Old Single Malt Scotch|89|Scotland|Speyside|65|43|16|Aberlour|1995-01-01  00:00:00|164|a1fd4fad-1d38-49e8-9e82-17850779912a|14.36|44.61|72.37
+The Singleton of Glendullan 12 Year Old Single Malt Scotch|89|Scotland|Speyside|35|40|12|Glendullan|1995-01-01  00:00:00|165|492034b7-0620-4858-9520-1bbf615cb9b8|14.36|44.61|72.37
+Whyte & Mackay Original 40 Year Old Aged Blended Scotch Whisky|89|Scotland|Blended|2||40|Whyte & Mackay|1995-01-01  00:00:00|166|7311398c-5ef7-4d18-a68a-c41f1eea8efa|14.36|44.61|72.37
+Dalmore 1974 Single Highland Malt Scotch Whisky|89|Scotland|Highlands|250|42||Dalmore|1995-01-01  00:00:00|167|35e28f6a-7e7d-43a0-b369-ae43ccf525f5|14.36|44.61|72.37
+Chivas Regal 25 Year Old Scotch|89|Scotland|Blended|260|40|25|Chivas Regal|1995-01-01  00:00:00|168|7d339e67-eb1b-4f8a-9093-fc33c178a582|14.36|44.61|72.37
+Jefferson's Select 18 Year Old Bourbon Whiskey|89|USA|Bourbon|90|47|18|Jefferson|1995-01-01  00:00:00|169|05c154c0-b9ee-4316-ba7f-0cc8fa7c19cc|14.36|44.61|72.37
+Glenlivet XXV Single Malt Scotch Whisky|89|Scotland|Speyside|305|43|25|Glenlivet|1995-01-01  00:00:00|170|e8d65085-65b5-4bcc-bc05-b6e0060a3a51|14.36|44.61|72.37
+Jameson Rarest Reserve Whiskey|90|Ireland|Blended|256|46|18|Jameson|1995-01-01  00:00:00|171|f761f419-52f5-4b35-b40d-f842f6abf802|14.36|44.61|72.37
+Highland Park 25-Year-Old Orkney Islands Single Malt Whisky|90|Scotland|Islands|240|48.1|25|Highland Park|1995-01-01  00:00:00|172|1a6faad4-5943-4292-87b9-cb482c030bf7|14.36|44.61|72.37
+Buchanan's Red Seal Blended Scotch|90|Scotland|Blended|140|40||Buchanan|1995-01-01  00:00:00|173|70567f91-4e83-4a75-832c-11ab54e49036|14.36|44.61|72.37
+Aberlour A'Bunadh Batch 21 Scotch|90|Scotland|Speyside|63|59.5|21|Aberlour|1995-01-01  00:00:00|174|68755543-4ef7-4f2c-863e-e3637ce6f583|14.36|44.61|72.37
+Glenfiddich 18 Year Old Single Malt Scotch|90|Scotland|Speyside|79|43|18|Glenfiddich|1995-01-01  00:00:00|175|b3e7ff70-cab0-4310-a5fb-dfb0e7cb3c56|14.36|44.61|72.37
+Macallan 15 Year Old Fine Oak Scotch|90|Scotland|Speyside|70|43|15|Macallan|1995-01-01  00:00:00|176|a5617e10-0a8f-4097-adbd-6f4f3661f581|14.36|44.61|72.37
+Suntory Hakushu 12 Year Old Single Malt Whiskey|90|Japan|Single Malt|45|43|12|Suntory|1995-01-01  00:00:00|177|7876c92b-b29d-4f97-9359-9140af06645d|14.36|44.61|72.37
+Wild Turkey Rare Breed Bourbon|90|USA|Bourbon|37|54.1||Wild Turkey|1995-01-01  00:00:00|178|75125092-b65b-47e6-a83c-b834217f687e|14.36|44.61|72.37
+Glenlivet 18 Year Old Single Malt Scotch Whisky|90|Scotland|Speyside|70|43|18|Glenlivet|1995-01-01  00:00:00|179|7f28b12d-7621-4192-83bd-d829729120b3|14.36|44.61|72.37
+Glenfiddich 15 Year Old Single Malt Scotch|90|Scotland|Speyside|55|40|15|Glenfiddich|1995-01-01  00:00:00|180|93d9e8d0-b942-45d9-bdba-c6970182d31e|14.36|44.61|72.37
+Jefferson's Presidential Select|90|USA|Bourbon|90|47|17|Jefferson|1995-01-01  00:00:00|181|ea8d527b-ea40-41ed-b7c3-ef085f27859f|14.36|44.61|72.37
+Speyburn 10 Year Old Single Malt Scotch|90|Scotland|Speyside|29|43|10|Speyburn|1995-01-01  00:00:00|182|90cf4092-b4bd-4d97-8d7a-d2e4af674db6|14.36|44.61|72.37
+Bushmills 16 Year Old Single Malt Irish Whiskey|91|Ireland|Single Malt|64|40|16|Bushmills|1995-01-01  00:00:00|183|6903e70c-1bb0-4c21-b4be-a162c59ddf50|14.36|44.61|72.37
+Midleton Very Rare Irish Whiskey|91|Ireland|Blended|132|40|25|Midleton|1995-01-01  00:00:00|184|f33e47fd-4383-4062-be40-df48fdedfd10|14.36|44.61|72.37
+Isle of Jura Prophecy Scotch|91|Scotland|Islands|75|46||Isle of Jura|1995-01-01  00:00:00|185|d0f9421a-2a53-4eb9-9266-9945ab321542|14.36|44.61|72.37
+Glenrothes 1975 Single Malt Scotch|91|Scotland|Speyside|400|43|31|Glenrothes|1995-01-01  00:00:00|186|125ed40a-cc77-4612-8f42-374614e91477|14.36|44.61|72.37
+Bushmills 21 Year Old Single Malt Irish Whiskey|91|Ireland|Single Malt|120|40|21|Bushmills|1995-01-01  00:00:00|187|0ede1afd-6ad9-4cd0-8484-eef2ab6b6168|14.36|44.61|72.37
+Amrut Indian Single Malt Whisky Cask Strength|91|India|Single Malt|50|61.8||Amrut|1995-01-01  00:00:00|188|e6d362cb-2b55-4784-88ad-8c36940d2f1a|14.36|44.61|72.37
+Redbreast 15 Year Old Irish Whiskey|92|Ireland|Pure Pot Still|67|46|15|Redbreast|1995-01-01  00:00:00|189|0b8e9d6a-8a96-4b80-98e1-801c8dcab7f1|14.36|44.61|72.37
+Old Pulteney 17 Year Old Single Malt Scotch|92|Scotland|Highlands|94|46|17|Old Pulteney|1995-01-01  00:00:00|190|a70904c1-b8f7-45f6-a427-a1c4eb41224f|14.36|44.61|72.37
+Forty Creek Confederation Oak Canadian Whiskey|92|Canada|Blended|70|40||Forty Creek|1995-01-01  00:00:00|191|5cb01712-a0c4-4749-87e5-a736e789ad23|14.36|44.61|72.37
+Old Pulteney 12 Year Old Single Malt Scotch|92|Scotland|Highlands|40|40|12|Old Pulteney|1995-01-01  00:00:00|192|6f9407e3-4a1b-4967-9afa-1052f760e903|14.36|44.61|72.37
+Deanston 12 Year Old Single Malt Scotch|92|Scotland|Highlands|47|46.3|12|Deanston|1995-01-01  00:00:00|193|427d25cf-2c79-4bc0-ba24-1f2e858c6511|14.36|44.61|72.37
+Glenlivet 15 Year Old Single Malt Scotch|92|Scotland|Speyside|45|40|15|Glenlivet|1995-01-01  00:00:00|194|cc3bc418-8e8c-4c3c-ac4b-077bd659961a|14.36|44.61|72.37
+Eagle Rare 17 Year Old Single Barrel Kentucky Straight Bourbon|92|USA|Bourbon|57|45|17|Eagle|1995-01-01  00:00:00|195|4aa06118-7859-43dd-aa64-cb596a4d5c43|14.36|44.61|72.37
+Balblair Single Malt Scotch|92|Scotland|Highlands|109|43|17|Balblair|1995-01-01  00:00:00|196|0367876d-082b-4430-89e4-1c77acefa127|14.36|44.61|72.37
+Laphroaig Quarter Cask Single Malt Scotch|92|Scotland|Islay|47|48||Laphroaig|1995-01-01  00:00:00|197|97ecc478-5b08-4d01-87e4-ec6ac479cda8|14.36|44.61|72.37
+Michael Collins 10 Year Old Single Malt Irish Whiskey|93|Ireland|Single Malt|39|40|10|Michael Collins|1995-01-01  00:00:00|198|11ddd3d0-65c5-4611-99de-203a9cd413fa|14.36|44.61|72.37
+Glenfiddich 21 Year Old Single Malt Scotch|93|Scotland|Speyside|133|40|21|Glenfiddich|1995-01-01  00:00:00|199|1e054f44-ba9f-4330-8190-928167a8e27a|14.36|44.61|72.37
+Wild Turkey Russel's Reserve Bourbon|93|USA|Bourbon|35|45|10|Wild Turkey|1995-01-01  00:00:00|200|ec04ea64-6163-4864-95a7-5da8ad389d9e|14.36|44.61|72.37
+Four Roses Small Batch Kentucky Straight Bourbon Whiskey|93|USA|Bourbon|32|45||Four Roses|1995-01-01  00:00:00|201|e9286e6a-7129-4422-9c66-91f9f3963ea1|14.36|44.61|72.37
+Tobermory 15 Year Old Single Malt Scotch|94|Scotland|Islands|108|46.3|15|Tobermory|1995-01-01  00:00:00|202|2e44e4b4-f642-4630-81ef-4090ec0a176b|14.36|44.61|72.37
+Glenmorangie 18 Year Old Single Malt Scotch|94|Scotland|Highlands|107|43|18|Glenmorangie|1995-01-01  00:00:00|203|97193244-6d72-4445-bfca-70f47a2790f6|14.36|44.61|72.37
+Ancnoc 16 Year Old Single Malt Scotch|94|Scotland|Highlands|60|46|16|Ancnoc|1995-01-01  00:00:00|204|97929284-bdec-481c-9fe1-d4effba117e9|14.36|44.61|72.37
+Pappy Van Winkle 20 year old Family Reserve Kentucky Straight Bourbon Whiskey|94|USA|Bourbon|93|45.2|20|Pappy Van Winkle|1995-01-01  00:00:00|205|1159b000-755a-41f4-8f42-d6b74dc45cf1|14.36|44.61|72.37
+Black Maple Hill 21 Cask 7 Bourbon|94|USA|Bourbon|95|40|21|Black Maple Hill|1995-01-01  00:00:00|206|d967845f-5800-4dfb-936c-77e1e710bac3|14.36|44.61|72.37
+Abraham Bowman Rye Whiskey|94|USA|Rye|70|68.2|9|Abraham Bowman|1995-01-01  00:00:00|207|05a93e82-a779-4536-ac34-c57164103cbd|14.36|44.61|72.37
+Isle of Jura 21 Year Old Single Malt Scotch|94|Scotland|Islands|140|44|21|Isle of Jura|1995-01-01  00:00:00|208|671a68f5-a969-4b2f-94e2-164fd19606b1|14.36|44.61|72.37
+Royal Salute 21 Year Old Scotch|94|Scotland|Speyside|175|40|21|Royal Salute|1995-01-01  00:00:00|209|89797fa1-bf80-4957-9d63-82cfca8f7068|14.36|44.61|72.37
+Ardbeg Airigh Nam Beist Scotch|94|Scotland|Islay|115|46|16|Ardbeg|1995-01-01  00:00:00|210|0004e010-29b0-4d44-aecc-54ff119323d5|14.36|44.61|72.37
+Aberfeldy 21 Year Old Single Malt Scotch|94|Scotland|Highlands|150|40|21|Aberfeldy|1995-01-01  00:00:00|211|312a49f2-7bf8-45ea-a673-78634fd2738e|14.36|44.61|72.37
+Talisker 1992 Single Malt Scotch|94|Scotland|Islands|68|45.82|12|Talisker|1995-01-01  00:00:00|212|6090e0cd-8023-4a0e-8418-e21c89b4ca6d|14.36|44.61|72.37
+Highland Park 18 Scotch|94|Scotland|Islands|80|43|18|Highland Park|1995-01-01  00:00:00|213|edbd9f61-1521-41e3-b2eb-358386c05393|14.36|44.61|72.37
+Bowmore 25 Year Old Scotch|94|Scotland|Islay|190|43|25|Bowmore|1995-01-01  00:00:00|214|9d06b6b5-53d8-4b3f-b924-4edd1cdc3eee|14.36|44.61|72.37
+Bowmore 12 Year Old Single Malt Scotch|94|Scotland|Islay|45|43|12|Bowmore|1995-01-01  00:00:00|215|65058990-9a32-47c7-9eb4-99c6125e1c79|14.36|44.61|72.37
+Wild Turkey Kentucky Spirit Bourbon|94|USA|Bourbon|42|50.5||Wild Turkey|1995-01-01  00:00:00|216|7659158f-872e-42da-abfd-4e679d715994|14.36|44.61|72.37
+Old Pulteney 21 Year Old Single Malt Scotch Whisky|95|Scotland|Highlands|120|46|21|Old Pulteney|1995-01-01  00:00:00|217|333542b3-f644-4085-8b51-8351c7b8958a|14.36|44.61|72.37
+Glen Grant 10 Year Old Single Malt Scotch|95|Scotland|Speyside|47|40|10|Glen Grant|1995-01-01  00:00:00|218|ce418c9f-9817-4a12-85fd-618656e50ad3|14.36|44.61|72.37
+Glenmorangie 12 Year Old Single Malt Scotch|95|Scotland|Highlands|55|46|12|Glenmorangie|1995-01-01  00:00:00|219|0d30c09f-45dd-480d-8b4b-df9e1b25a701|14.36|44.61|72.37
+Macallan 21 Year Old Fine Oak Scotch Whisky|96|Scotland|Speyside|220|43|21|Macallan|1995-01-01  00:00:00|220|f224e34b-db68-4757-8d8d-9b6b6780b5d5|14.36|44.61|72.37
+George T. Stagg Kentucky Straight Bourbon Whiskey|96|USA|Bourbon|70|45||George T. Stagg|1995-01-01  00:00:00|221|9ab84c1a-4b72-4c85-8deb-bff22b961cc8|14.36|44.61|72.37
+Parker's Heritage Collection 10 Year Old Wheated Bourbon|96|USA|Bourbon|80|63|10|Parker's Heritage|1995-01-01  00:00:00|222|739ccd4e-51b0-42f0-9205-3e21cf0fb3a1|14.36|44.61|72.37
+Rowan's Creek Bourbon|96|USA|Bourbon|50|50.05|12|Rowan's Creek|1995-01-01  00:00:00|223|b860fd2a-a0c8-461d-a3da-ff48f619521c|14.36|44.61|72.37
+Woodford Reserve Master's Collection Bourbon|96|USA|Bourbon|80|46.2||Woodford Reserve|1995-01-01  00:00:00|224|be21d37c-d189-471b-ac32-a5b4915ec360|14.36|44.61|72.37
+Lagavulin 21 Scotch|96|Scotland|Islay|300|56.5|21|Lagavulin|1995-01-01  00:00:00|225|1c4fb67f-47e3-4bf1-b189-70503944d575|14.36|44.61|72.37
+Highland Park 30 Scotch|96|Scotland|Islands|365|48.1|30|Highland Park|1995-01-01  00:00:00|226|194e0a06-ae2b-4327-b5ea-5ab9cdac5ca0|14.36|44.61|72.37
+King Car Single Malt Whisky|96|Taiwan|Single Malt|84|46||Kavalan|1995-01-01  00:00:00|227|c1efc88d-19f2-4f61-a5bb-834263a0b3ad|14.36|44.61|72.37
+Rye Dog Whiskey|96|USA|Rye|65|50|0|Delaware Phoenix|1995-01-01  00:00:00|228|ec844f6b-6cbe-43c9-bc64-e3506af1caeb|14.36|44.61|72.37
+Thirteenth Colony Southern Corn Whiskey|96|USA|Corn|30|47.5||Thirteen Colony|1995-01-01  00:00:00|229|8123f1cb-647b-4bbe-8a3a-0295825af129|14.36|44.61|72.37
+Glenfiddich 12 Year Old Single Malt Scotch|96|Scotland|Speyside|43|40|12|Glenfiddich|1995-01-01  00:00:00|230|1117f0df-4687-4f54-9a26-f4df015cb3b4|14.36|44.61|72.37
+Oban 15 Year Old Single Malt Scotch|96|Scotland|Highlands|89|43|15|Oban|1995-01-01  00:00:00|231|bc604d7d-dfad-4b00-84a3-78d5b218a21d|14.36|44.61|72.37
+Old Pulteney 30 Year Old Single Malt Scotch|96|Scotland|Highlands|400|44|30|Old Pulteney|1995-01-01  00:00:00|232|51e560ea-fc50-4662-a94f-d21d3367fdab|14.36|44.61|72.37
+Tomatin 18 Year Old Single Malt Scotch|96|Scotland|Speyside|62|46|18|Tomatin|1995-01-01  00:00:00|233|3a61cf84-19ae-408f-a723-93f9f166f671|14.36|44.61|72.37
+Glengoyne 17 Year Old Single Malt Scotch|96|Scotland|Highlands|73|43|17|Glengoyne|1995-01-01  00:00:00|234|26445ed5-066f-427f-a780-b8a1d36a2d43|14.36|44.61|72.37
+Aberfeldy 12 Year Old Single Malt Scotch|96|Scotland|Highlands|30|40|12|Aberfeldy|1995-01-01  00:00:00|235|8cb4ec75-0ce1-478f-8c8d-d8e041da23ca|14.36|44.61|72.37
+Buchanan's 18 Year Old Special Reserve Scotch|96|Scotland|Blended|79|43|18|Buchanan|1995-01-01  00:00:00|236|3bdd8e63-f0a9-44aa-b088-90be4f1c04b0|14.36|44.61|72.37
+Bunnahabhain 12 Year Old Single Malt Scotch|96|Scotland|Islay|43|46.3|12|Bunnahabhain|1995-01-01  00:00:00|237|e2ca7e54-c133-4d86-9927-706b042dc003|14.36|44.61|72.37
+Buchanan's Master Blended Scotch|96|Scotland|Blended|54|40||Buchanan|1995-01-01  00:00:00|238|5be6b61d-fdf6-43f5-9fc4-d9d4148ab655|14.36|44.61|72.37
+Lagavulin 12 Year Old Single Malt Scotch|96|Scotland|Islay|90|57.8|12|Lagavulin|1995-01-01  00:00:00|239|fb2dcf8c-ac4a-4c34-a219-ccf5f52fc09d|14.36|44.61|72.37
+Tomatin 15 Year Old Single Malt Scotch|96|Scotland|Speyside|48|43|15|Tomatin|1995-01-01  00:00:00|240|84541c26-8fe0-49bc-8cd0-66748a47a189|14.36|44.61|72.37
+Glenmorangie 25 Year Old Single Malt Scotch|96|Scotland|Highlands|580|43|25|Glenmorangie|1995-01-01  00:00:00|241|4b67dcc0-17ce-4f02-a8cc-38a54d1bceaa|14.36|44.61|72.37
+Haig Supreme Blended Scotch|96|Scotland|Blended|25|40||Haig|1995-01-01  00:00:00|242|e62ded54-8592-40e4-83a3-680342377297|14.36|44.61|72.37
+Kingdom 12 Year Old Scotch|96|Scotland|Blended|30|40|12|Kingdom|1995-01-01  00:00:00|243|2bb35d0a-643e-4d3b-b005-1921f2518ac0|14.36|44.61|72.37
+William Larue Weller Bourbon|96|USA|Bourbon|65|65||William Larue Weller|1995-01-01  00:00:00|244|6342c624-1593-4bfb-b70d-523913b897f5|14.36|44.61|72.37
+Redbreast 12 Year Old Irish Whiskey|96|Ireland|Pure Pot Still|40|40|12|Redbreast|1995-01-01  00:00:00|245|53f81861-af6f-4280-8ba4-df2b0535c97a|14.36|44.61|72.37
+Glenlivet Nadurra 16 Year Old Cask Strength Single Malt Scotch Whisky|96|Scotland|Speyside|65|48|16|Glenlivet|1995-01-01  00:00:00|246|d4784e15-6ef0-4232-8cd8-2f10b2b0cbae|14.36|44.61|72.37
+Chivas Regal 18 Year Old Blended Scotch Whisky|96|Scotland|Blended|64|40|18|Chivas Regal|1995-01-01  00:00:00|247|c72f2a77-023e-46fc-b8f5-17211e54170c|14.36|44.61|72.37
+Hudson Baby Bourbon|96|USA|Bourbon|40|46||Hudson|1995-01-01  00:00:00|248|becb5513-543e-49b6-93b9-4a9900062b33|14.36|44.61|72.37
+Glenlivet 21 Year Old Single Malt Scotch|97|Scotland|Speyside|123|40|21|Glenlivet|1995-01-01  00:00:00|249|a337210f-8022-4ebc-8c25-3ba76aefae99|14.36|44.61|72.37
+Powers 12 Year Old Irish Whiskey|99|Ireland|Blended|35|40|12|Powers|1995-01-01  00:00:00|250|09268e81-c0c6-459e-943a-952fa50ff314|14.36|44.61|72.37
+Suntory The Yamazaki 18 Year Old Single Malt Whiskey|99|Japan|Single Malt|120|43|18|Suntory|1995-01-01  00:00:00|251|24675798-4fdc-4e61-b6af-2a298166612c|14.36|44.61|72.37
+Glenmorangie 10 Year Old Single Malt Scotch Whisky|99|Scotland|Highlands|42|40|10|Glenmorangie|1995-01-01  00:00:00|252|029d166b-d56a-4c2c-b7c6-c816b97278c4|14.36|44.61|72.37
+Glenmorangie Single Malt Scotch|99|Scotland|Highlands|80|46|10|Glenmorangie|1995-01-01  00:00:00|253|33a1fc8b-d89d-4a98-b367-bee1cd56bcc8|14.36|44.61|72.37
+Bunnahabhain 18 Year Old Single Malt Scotch|99|Scotland|Islay|92|46.3|18|Bunnahabhain|1995-01-01  00:00:00|254|a01d876a-6b63-44b9-b0db-a33698a0e2af|14.36|44.61|72.37
+Laphroaig 18 Year Old Single Malt Scotch|99|Scotland|Islay|107|48|18|Laphroaig|1995-01-01  00:00:00|255|d3fd5f8c-6f2f-4fe9-88fc-d4f9ee0a0ee3|14.36|44.61|72.37
+Cardhu 12 Year Old Single Malt Scotch|99|Scotland|Highlands|45|40|12|Cardhu|1995-01-01  00:00:00|256|3dd165da-f103-4fd8-9082-aeb2005a346d|14.36|44.61|72.37
+Aberlour 18 Year Old Single Malt Scotch|99|Scotland|Speyside|100|43|18|Aberlour|1995-01-01  00:00:00|257|92619cfa-e1af-45a1-90d9-62a00de29ca1|14.36|44.61|72.37
+Balvenie 14 Year Old Single Malt Scotch|99|Scotland|Speyside|60|43|14|Balvenie|1995-01-01  00:00:00|258|994482f1-6f77-49a9-ac26-c0a37465c7c9|14.36|44.61|72.37
+Caol Ila Single Malt Scotch Distillers Edition|99|Scotland|Islay|70|43||Caol Ila|1995-01-01  00:00:00|259|e71dde38-0dee-4329-a891-68b95e0e75d7|14.36|44.61|72.37
+Kingdom 17 Year Old Scotch|99|Scotland|Blended|50|40|17|Kingdom|1995-01-01  00:00:00|260|a8e57fd1-dc05-46a2-ae97-b71aa8aeddb3|14.36|44.61|72.37
+Balvenie 12 Year Old Doublewood Single Malt Scotch|99|Scotland|Speyside|45|40|12|Balvenie|1995-01-01  00:00:00|261|d7217209-ddfc-465a-9508-df44fa853292|14.36|44.61|72.37
+Glen Garioch Founders Reserve Scotch|99|Scotland|Highlands|45|48||Glen Garioch|1995-01-01  00:00:00|262|69fab986-1289-4302-a46f-6e15745289e7|14.36|44.61|72.37
+Bowmore 15 Year Old Single Malt Scotch|99|Scotland|Islay|70|43|15|Bowmore|1995-01-01  00:00:00|263|7f4a0445-fac5-4513-a96e-aa570a18839e|14.36|44.61|72.37
+Rebel Yell Kentucky Straight Bourbon Whiskey|99|USA|Bourbon|11|40||Rebel Yell|1995-01-01  00:00:00|264|75944b33-e1c4-46ea-bf02-88d09d4d633e|14.36|44.61|72.37
+Pappy Van Winkle 15 Year Old Family Reserve Whiskey|99|USA|Bourbon|58|53.5|15|Pappy Van Winkle|1995-01-01  00:00:00|265|eb314a32-162b-4ffb-aa30-205c78713d57|14.36|44.61|72.37
+Thomas H. Handy Kentucky Straight Rye Whiskey|99|USA|Rye|67|66.4|6|Thomas H. Handy|1995-01-01  00:00:00|266|8953dcfd-9d0b-41c6-bd76-83ef090fefeb|14.36|44.61|72.37
+Ardbeg Uigeadail|99|Scotland|Islay|80|54.2||Ardbeg|1995-01-01  00:00:00|267|a6abfcca-db65-4eff-a317-05acd7b71f10|14.36|44.61|72.37
+Noah's Mill Bourbon|99|USA|Bourbon|60|57.15||Noah's Mill|1995-01-01  00:00:00|268|f6c4a9c2-52d9-4820-ba1b-73074ff1db10|14.36|44.61|72.37
+Parker's Heritage Bourbon|99|USA|Bourbon|80|62|15|Parker's Heritage|1995-01-01  00:00:00|269|aa24d918-9a6f-4a46-be41-2dea8afcec8a|14.36|44.61|72.37
+Tyrconnell 10 Year Old Single Malt Madeira Cask Finish Irish Whiskey|100|Ireland|Single Malt|72|46|10|Tyrconnell|1995-01-01  00:00:00|270|678f2564-7d03-490c-9a24-ae22b724ca0f|14.36|44.61|72.37
+Dalmore 18 Year Old Single Highland Malt Scotch Whisky|100|Scotland|Highlands|165|43|18|Dalmore|1995-01-01  00:00:00|271|694547a1-cf9c-4c67-9bcb-7f4b4d904d9f|14.36|44.61|72.37
+Suntory Whiskey Hibiki||Japan|Blended|92|43|12|Suntory|1995-01-01  00:00:00|272|f09582b4-d4a1-48ab-b844-48209d60ae96|14.36|44.61|72.37
+McAdams Canadian Whisky||Canada|Blended|8|||McAdams|1995-01-01  00:00:00|273|3ef87b74-617b-4f3a-a758-af1b2da50ac0|14.36|44.61|72.37
+Texas Crown Club Canadian Whisky||Canada|Blended|22||4|Texas Crown|1995-01-01  00:00:00|274|20d84e08-82e5-48bd-a520-fab91eacf46d|14.36|44.61|72.37
+Bunnahabhain 25||Scotland|Islay|292|46.3|25|Bunnahabhain|1995-01-01  00:00:00|275|9ce524a4-f8cb-46c1-b61b-70c02eb0eb8a|14.36|44.61|72.37
+Glenlivet 18 Year Old Single Malt Scotch||Scotland|Speyside|69|57|18|Glenlivet|1995-01-01  00:00:00|276|54c2c79f-f8a3-4cd0-ab12-8539f589af12|14.36|44.61|72.37
+Bell's Scotch Whisky||Scotland|Blended||43||Bell's|1995-01-01  00:00:00|277|a9c20006-210a-4ed7-8976-e6c3026efc0f|14.36|44.61|72.37
+Glengoyne 10 Year Old Single Malt Scotch||Scotland|Highlands|||10|Glengoyne|1995-01-01  00:00:00|278|bb9965e6-a2d6-46de-82ba-a726e3c300a1|14.36|44.61|72.37
+The Tweeddale Blend||Scotland|Blended|30|46|12|Tweeddale|1995-01-01  00:00:00|279|c9ebb2b2-6a41-4081-b498-23824d30a7a9|14.36|44.61|72.37
+A.H. Hirsch Finest Reserve 20 Bourbon||USA|Bourbon|280|45|16|A.H. Hirsch|1995-01-01  00:00:00|280|b8544a12-c58c-49e7-ba43-693ca67a8f68|14.36|44.61|72.37
+Elijah Craig 18 Year Bourbon||USA|Bourbon|40|45|18|Elijah Craig|1995-01-01  00:00:00|281|e4471b5d-2a91-48f2-b410-53f54527a37f|14.36|44.61|72.37
+Kavalan Solist Vinho Single Malt Whisky||Taiwan|Single Malt|100|59.2||Kavalan|1995-01-01  00:00:00|282|2036284e-e0f6-447f-ac30-3164f2666f06|14.36|44.61|72.37
+Knob Creek||USA|Bourbon|40|45|18|Knob Creek|1995-01-01  00:00:00|283|c3eebf6b-48b0-4edd-9b5d-d8408097ffc6|14.36|44.61|72.37
